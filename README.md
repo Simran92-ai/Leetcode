@@ -10,4 +10,12 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Simran92-ai/Leetcode/tree/master/0061-rotate-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Simran92-ai/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Simran92-ai/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
