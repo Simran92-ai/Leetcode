@@ -9,12 +9,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Simran92-ai/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Simran92-ai/Leetcode/tree/master/0061-rotate-list) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Simran92-ai/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Simran92-ai/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Simran92-ai/Leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
