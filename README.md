@@ -11,12 +11,14 @@
 | ------- |
 | [0027-remove-element](https://github.com/Simran92-ai/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Simran92-ai/Leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Simran92-ai/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Simran92-ai/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Simran92-ai/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Simran92-ai/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Simran92-ai/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Simran92-ai/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Simran92-ai/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
