@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Simran92-ai/Leetcode/tree/master/0088-merge-sorted-array) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Simran92-ai/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
