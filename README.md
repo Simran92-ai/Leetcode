@@ -18,6 +18,7 @@
 | [0001-two-sum](https://github.com/Simran92-ai/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Simran92-ai/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Simran92-ai/Leetcode/tree/master/0027-remove-element) |
+| [0057-insert-interval](https://github.com/Simran92-ai/Leetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Simran92-ai/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
